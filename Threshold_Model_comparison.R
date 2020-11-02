@@ -1,3 +1,7 @@
+### Not used for manuscript - this has been updated and rearranged in This is now old - I've moved these functions and testing code to Model_testing.R, modelFitFunctions.R, and molt.simulator.R
+
+
+
 ########################################################
 ###Simulate molt data to test UZ vs threshold models###
 ########################################################
